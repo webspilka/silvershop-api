@@ -10,11 +10,12 @@
 # Silvershop API
 
 Simple API for use with the [Silvershop module](https://github.com/silvershop/silvershop-core). Not considered stable.
+Forks from https://github.com/toastnz/silvershop-api
 
 ## Installation
 
 ```
- composer require toastnz/silvershop-api
+composer require webspilka/silvershop-api dev-master
 ```
 
 ## Configuration
